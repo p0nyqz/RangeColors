@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72BFEE192AF07C6000DF4295 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72BFEE182AF07C6000DF4295 /* SecondViewController.swift */; };
 		72D32A562AED33D200E446DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D32A552AED33D200E446DC /* AppDelegate.swift */; };
 		72D32A582AED33D200E446DC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D32A572AED33D200E446DC /* SceneDelegate.swift */; };
 		72D32A5A2AED33D200E446DC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D32A592AED33D200E446DC /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		72BFEE182AF07C6000DF4295 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		72D32A522AED33D200E446DC /* RangeColors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RangeColors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72D32A552AED33D200E446DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72D32A572AED33D200E446DC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				72D32A5E2AED33D400E446DC /* Assets.xcassets */,
 				72D32A602AED33D400E446DC /* LaunchScreen.storyboard */,
 				72D32A632AED33D400E446DC /* Info.plist */,
+				72BFEE182AF07C6000DF4295 /* SecondViewController.swift */,
 			);
 			path = RangeColors;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72BFEE192AF07C6000DF4295 /* SecondViewController.swift in Sources */,
 				72D32A5A2AED33D200E446DC /* ViewController.swift in Sources */,
 				72D32A562AED33D200E446DC /* AppDelegate.swift in Sources */,
 				72D32A582AED33D200E446DC /* SceneDelegate.swift in Sources */,

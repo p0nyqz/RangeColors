@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD00342C-DEE5-4772-925B-66ED0B287DC7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62070E4D-02E1-4E27-9815-7DCCDF0D9BA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RangeColors/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "showAlert()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "62070E4D-02E1-4E27-9815-7DCCDF0D9BA4 - 82f2d93161339b9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RangeColors.SecondViewController.showAlert() -&gt; ()"
+                  moduleName = "RangeColors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegsugatov/Desktop/p0nyqz/xcode/RangeColors/RangeColors/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  uuid = "62070E4D-02E1-4E27-9815-7DCCDF0D9BA4 - 82f2d93161339878"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RangeColors.SecondViewController.showAlert() -&gt; ()"
+                  moduleName = "RangeColors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegsugatov/Desktop/p0nyqz/xcode/RangeColors/RangeColors/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
